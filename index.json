@@ -16,67 +16,67 @@
       "tag": "es",
       "nativeName": "Español",
       "englishName": "Spanish",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/karankular/sonicplay-langpacks/master/es.json",
-      "sha256": "5c625ce451ae46a73075810f494c2b1108366e9cf1dffd9ad3c14651be3bf467",
-      "sizeBytes": 1150,
+      "sha256": "45a6614428903f4eb736c3c17c68471c871a0d0962e6f047926fd9e4dbb5a1b0",
+      "sizeBytes": 14325,
       "minAppVersion": 0,
-      "completeness": 11
+      "completeness": 100
     },
     {
       "tag": "de",
       "nativeName": "Deutsch",
       "englishName": "German",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/karankular/sonicplay-langpacks/master/de.json",
-      "sha256": "730ddb3e3438420e34ff0f531937fd8c0e940021526d55f6987053270243fda2",
-      "sizeBytes": 1103,
+      "sha256": "b2996535cd5115f8d400edd0338304a5889e0dc3605bf2c0c809739746764093",
+      "sizeBytes": 13953,
       "minAppVersion": 0,
-      "completeness": 11
+      "completeness": 100
     },
     {
       "tag": "pt-BR",
       "nativeName": "Português (Brasil)",
       "englishName": "Portuguese (Brazil)",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/karankular/sonicplay-langpacks/master/pt-BR.json",
-      "sha256": "8366cda6b228e8fbd0f3fe284af6a6e870eef2e37a8be52ad2f0c501fb5e2bfc",
-      "sizeBytes": 1155,
+      "sha256": "0680e5f97f1bc920450b855a105a4c7cbe3001142f7ceab995d3f41ad68aefe0",
+      "sizeBytes": 14116,
       "minAppVersion": 0,
-      "completeness": 11
+      "completeness": 100
     },
     {
       "tag": "hi",
       "nativeName": "हिन्दी",
       "englishName": "Hindi",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/karankular/sonicplay-langpacks/master/hi.json",
-      "sha256": "127f6b3c45258ef2a9fc94a15396895c398764590c0e070f125b289a42f4d027",
-      "sizeBytes": 1593,
+      "sha256": "a08cc7153f90a73ffb8f84d18ad72569a32c71fcab9125660e691ddc843e9af8",
+      "sizeBytes": 21793,
       "minAppVersion": 0,
-      "completeness": 11
+      "completeness": 100
     },
     {
       "tag": "ja",
       "nativeName": "日本語",
       "englishName": "Japanese",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/karankular/sonicplay-langpacks/master/ja.json",
-      "sha256": "6542be77b95e37ee8fa12e9c49f4666311886e2e47af14032a29a28449701227",
-      "sizeBytes": 1219,
+      "sha256": "611d70200250402eff0c224801346eef73afc6aa674154ad87783e74170e4d79",
+      "sizeBytes": 15546,
       "minAppVersion": 0,
-      "completeness": 11
+      "completeness": 100
     },
     {
       "tag": "id",
       "nativeName": "Bahasa Indonesia",
       "englishName": "Indonesian",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/karankular/sonicplay-langpacks/master/id.json",
-      "sha256": "c715b876bcf42bdeb850d704d317127a79a6578ce91b3f43fce9fb5c4e7c6089",
-      "sizeBytes": 1079,
+      "sha256": "21e41f483a6c90d029ace53ce19bfebec5d2b9349f829321b5e956a37a5a7b41",
+      "sizeBytes": 13350,
       "minAppVersion": 0,
-      "completeness": 11
+      "completeness": 100
     }
   ]
 }

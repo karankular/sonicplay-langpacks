@@ -144,6 +144,13 @@
     "eq_band_enabled": "有効",
     "eq_bands": "バンド",
     "eq_delete_preset": "プリセットを削除",
+    "eq_filter_all_pass": "オールパス",
+    "eq_filter_high_pass": "ハイパス",
+    "eq_filter_high_shelf": "ハイシェルフ",
+    "eq_filter_low_pass": "ローパス",
+    "eq_filter_low_shelf": "ローシェルフ",
+    "eq_filter_notch": "ノッチ",
+    "eq_filter_peaking": "ピーキング",
     "eq_frequency": "周波数",
     "eq_gain": "ゲイン",
     "eq_manual_title": "手動イコライザー",
@@ -171,6 +178,9 @@
     "folder_subfolder_count": "%1$d 個のフォルダ",
     "folder_use_selected": "選択したものを使う",
     "folders_none": "フォルダが見つかりません",
+    "format_mono": "1（モノラル）",
+    "format_stereo": "2（ステレオ）",
+    "format_unknown": "不明",
     "genres_none": "ジャンルが見つかりません",
     "home_add_music_files": "端末に音楽ファイルを追加すると始められます",
     "home_albums": "アルバム",
@@ -335,6 +345,8 @@
     "player_set": "設定",
     "player_shuffle": "シャッフル",
     "player_sleep_timer": "スリープタイマー",
+    "player_stop_after_song_one": "%1$d 曲",
+    "player_stop_after_song_other": "%1$d 曲",
     "player_stop_after_songs": "曲数で停止",
     "player_stop_after_time": "時間で停止",
     "player_turn_off": "オフにする",
@@ -794,5 +806,5 @@
     "youtube_quota": "API キーの本日分の割り当てを使い切りました。太平洋時間の午前 0 時にリセットされます"
   },
   "tag": "ja",
-  "version": 8
+  "version": 9
 }

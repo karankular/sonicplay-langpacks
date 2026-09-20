@@ -144,6 +144,13 @@
     "eq_band_enabled": "Activada",
     "eq_bands": "Bandas",
     "eq_delete_preset": "Eliminar preajuste",
+    "eq_filter_all_pass": "Paso todo",
+    "eq_filter_high_pass": "Paso alto",
+    "eq_filter_high_shelf": "Shelf de agudos",
+    "eq_filter_low_pass": "Paso bajo",
+    "eq_filter_low_shelf": "Shelf de graves",
+    "eq_filter_notch": "Notch",
+    "eq_filter_peaking": "Campana",
     "eq_frequency": "Frecuencia",
     "eq_gain": "Ganancia",
     "eq_manual_title": "Ecualizador manual",
@@ -171,6 +178,9 @@
     "folder_subfolder_count": "%1$d carpetas",
     "folder_use_selected": "Usar la selección",
     "folders_none": "No se encontraron carpetas",
+    "format_mono": "1 (mono)",
+    "format_stereo": "2 (estéreo)",
+    "format_unknown": "Desconocido",
     "genres_none": "No se encontraron géneros",
     "home_add_music_files": "Añade archivos de música a tu dispositivo para empezar",
     "home_albums": "Álbumes",
@@ -335,6 +345,8 @@
     "player_set": "Aplicar",
     "player_shuffle": "Aleatorio",
     "player_sleep_timer": "Temporizador",
+    "player_stop_after_song_one": "%1$d canción",
+    "player_stop_after_song_other": "%1$d canciones",
     "player_stop_after_songs": "Detener tras varias canciones",
     "player_stop_after_time": "Detener tras un tiempo",
     "player_turn_off": "Desactivar",
@@ -794,5 +806,5 @@
     "youtube_quota": "Tu clave de API agotó la cuota de hoy: se reinicia a medianoche (hora del Pacífico)"
   },
   "tag": "es",
-  "version": 8
+  "version": 9
 }

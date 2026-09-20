@@ -144,6 +144,13 @@
     "eq_band_enabled": "Ativada",
     "eq_bands": "Bandas",
     "eq_delete_preset": "Excluir predefinição",
+    "eq_filter_all_pass": "Passa-tudo",
+    "eq_filter_high_pass": "Passa-alta",
+    "eq_filter_high_shelf": "Shelf de agudos",
+    "eq_filter_low_pass": "Passa-baixa",
+    "eq_filter_low_shelf": "Shelf de graves",
+    "eq_filter_notch": "Notch",
+    "eq_filter_peaking": "Sino",
     "eq_frequency": "Frequência",
     "eq_gain": "Ganho",
     "eq_manual_title": "Equalizador manual",
@@ -171,6 +178,9 @@
     "folder_subfolder_count": "%1$d pastas",
     "folder_use_selected": "Usar a seleção",
     "folders_none": "Nenhuma pasta encontrada",
+    "format_mono": "1 (mono)",
+    "format_stereo": "2 (estéreo)",
+    "format_unknown": "Desconhecido",
     "genres_none": "Nenhum gênero encontrado",
     "home_add_music_files": "Adicione arquivos de música ao seu dispositivo para começar",
     "home_albums": "Álbuns",
@@ -335,6 +345,8 @@
     "player_set": "Definir",
     "player_shuffle": "Aleatório",
     "player_sleep_timer": "Timer de desligamento",
+    "player_stop_after_song_one": "%1$d música",
+    "player_stop_after_song_other": "%1$d músicas",
     "player_stop_after_songs": "Parar após músicas",
     "player_stop_after_time": "Parar após um tempo",
     "player_turn_off": "Desativar",
@@ -794,5 +806,5 @@
     "youtube_quota": "Sua chave de API esgotou a cota de hoje — ela é reiniciada à meia-noite (horário do Pacífico)"
   },
   "tag": "pt-BR",
-  "version": 8
+  "version": 9
 }

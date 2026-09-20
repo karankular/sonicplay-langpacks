@@ -144,6 +144,13 @@
     "eq_band_enabled": "चालू",
     "eq_bands": "बैंड",
     "eq_delete_preset": "प्रीसेट मिटाएँ",
+    "eq_filter_all_pass": "ऑल पास",
+    "eq_filter_high_pass": "हाई पास",
+    "eq_filter_high_shelf": "हाई शेल्फ",
+    "eq_filter_low_pass": "लो पास",
+    "eq_filter_low_shelf": "लो शेल्फ",
+    "eq_filter_notch": "नॉच",
+    "eq_filter_peaking": "पीकिंग",
     "eq_frequency": "आवृत्ति",
     "eq_gain": "गेन",
     "eq_manual_title": "मैनुअल इक्वलाइज़र",
@@ -171,6 +178,9 @@
     "folder_subfolder_count": "%1$d फ़ोल्डर",
     "folder_use_selected": "चुने हुए इस्तेमाल करें",
     "folders_none": "कोई फ़ोल्डर नहीं मिला",
+    "format_mono": "1 (मोनो)",
+    "format_stereo": "2 (स्टीरियो)",
+    "format_unknown": "अज्ञात",
     "genres_none": "कोई शैली नहीं मिली",
     "home_add_music_files": "शुरू करने के लिए अपने डिवाइस में संगीत फ़ाइलें जोड़ें",
     "home_albums": "एल्बम",
@@ -335,6 +345,8 @@
     "player_set": "सेट करें",
     "player_shuffle": "बेतरतीब",
     "player_sleep_timer": "स्लीप टाइमर",
+    "player_stop_after_song_one": "%1$d गाना",
+    "player_stop_after_song_other": "%1$d गाने",
     "player_stop_after_songs": "तय गानों के बाद रोकें",
     "player_stop_after_time": "तय समय के बाद रोकें",
     "player_turn_off": "बंद करें",
@@ -794,5 +806,5 @@
     "youtube_quota": "आपकी API कुंजी का आज का कोटा ख़त्म हो गया — यह पैसिफ़िक समय की आधी रात को रीसेट होता है"
   },
   "tag": "hi",
-  "version": 8
+  "version": 9
 }

@@ -144,6 +144,13 @@
     "eq_band_enabled": "Aktiv",
     "eq_bands": "Bänder",
     "eq_delete_preset": "Preset löschen",
+    "eq_filter_all_pass": "Allpass",
+    "eq_filter_high_pass": "Hochpass",
+    "eq_filter_high_shelf": "High Shelf",
+    "eq_filter_low_pass": "Tiefpass",
+    "eq_filter_low_shelf": "Low Shelf",
+    "eq_filter_notch": "Notch",
+    "eq_filter_peaking": "Peak",
     "eq_frequency": "Frequenz",
     "eq_gain": "Verstärkung",
     "eq_manual_title": "Manueller EQ",
@@ -171,6 +178,9 @@
     "folder_subfolder_count": "%1$d Ordner",
     "folder_use_selected": "Auswahl verwenden",
     "folders_none": "Keine Ordner gefunden",
+    "format_mono": "1 (Mono)",
+    "format_stereo": "2 (Stereo)",
+    "format_unknown": "Unbekannt",
     "genres_none": "Keine Genres gefunden",
     "home_add_music_files": "Füge Musikdateien auf deinem Gerät hinzu, um loszulegen",
     "home_albums": "Alben",
@@ -335,6 +345,8 @@
     "player_set": "Festlegen",
     "player_shuffle": "Zufall",
     "player_sleep_timer": "Sleep-Timer",
+    "player_stop_after_song_one": "%1$d Titel",
+    "player_stop_after_song_other": "%1$d Titel",
     "player_stop_after_songs": "Nach Titeln stoppen",
     "player_stop_after_time": "Nach Zeit stoppen",
     "player_turn_off": "Ausschalten",
@@ -794,5 +806,5 @@
     "youtube_quota": "Dein API-Schlüssel hat das Tageskontingent ausgeschöpft — es wird um Mitternacht (Pacific) zurückgesetzt"
   },
   "tag": "de",
-  "version": 8
+  "version": 9
 }

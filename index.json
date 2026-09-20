@@ -66,6 +66,17 @@
       "sizeBytes": 1219,
       "minAppVersion": 0,
       "completeness": 100
+    },
+    {
+      "tag": "id",
+      "nativeName": "Bahasa Indonesia",
+      "englishName": "Indonesian",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/karankular/sonicplay-langpacks/master/id.json",
+      "sha256": "a160af302cac65a0306dab081b4eecb021959ae99b338cec6c72dff088debd9f",
+      "sizeBytes": 1079,
+      "minAppVersion": 0,
+      "completeness": 100
     }
   ]
 }

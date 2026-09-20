@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "tag": "id",
+  "version": 1,
+  "strings": {
+    "notification_channel_name": "Pemutaran Musik",
+    "notification_channel_description": "Kontrol untuk pemutaran musik",
+    "permission_title": "Izin Penyimpanan Diperlukan",
+    "permission_description": "SonicPlay memerlukan akses ke file audio Anda untuk memutar musik. Tidak ada data yang keluar dari perangkat Anda.",
+    "widget_small_desc": "Widget Kecil SonicPlay (2x1)",
+    "widget_medium_desc": "Widget Sedang SonicPlay (4x1)",
+    "widget_large_desc": "Widget Besar SonicPlay (4x2)",
+    "dac_config_title": "Konfigurasi DAC",
+    "dac_section_volume": "VOLUME",
+    "dac_section_dsd": "KELUARAN DSD",
+    "dac_section_volume_safety": "KEAMANAN VOLUME",
+    "dac_remove_device": "Hapus Perangkat",
+    "dac_remove_confirm_title": "Hapus %1$s?",
+    "dac_remove": "Hapus",
+    "dac_cancel": "Batal",
+    "dac_still_connected": "Masih terhubung",
+    "dac_device": "Perangkat",
+    "dac_main_setting": "Pengaturan utama",
+    "dac_off": "Nonaktif",
+    "dac_empty_title": "Belum ada DAC"
+  }
+}

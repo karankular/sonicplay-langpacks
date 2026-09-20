@@ -123,6 +123,8 @@
     "dac_takes_effect_with_bit_perfect": " Wirkt, sobald der Bit-Perfect-Modus aktiviert ist.",
     "dac_unplug_first": "Trenne diesen DAC zuerst. Seine Einstellungen sind in Benutzung, solange er verbunden ist, und er würde sofort wieder aufgenommen.",
     "dac_usb_id": "USB %1$s",
+    "dac_usb_unsupported_body": "Dieses Gerät kann keine USB-Audiogeräte anschließen, daher gibt es hier nichts einzustellen. Alles andere in SonicPlay funktioniert wie gewohnt.",
+    "dac_usb_unsupported_title": "USB-Audio nicht unterstützt",
     "dac_use_software_volume": "Software-Lautstärke verwenden",
     "dup_all": "Alle",
     "dup_delete_title": "%1$d Titel löschen?",
@@ -244,11 +246,13 @@
     "language_in_use": "Aktiv",
     "language_intro": "Lade die Sprachen herunter, die du möchtest, und wechsle jederzeit zwischen ihnen. Neue Sprachen lassen sich ohne App-Update hinzufügen, und alles, was eine Sprache noch nicht abdeckt, bleibt auf Englisch.",
     "language_none_available": "Derzeit sind keine weiteren Sprachen verfügbar.",
+    "language_offline_body": "%1$s konnte nicht heruntergeladen werden. Eine Kopie ist in der App enthalten — sie ist möglicherweise etwas älter als die neueste. Stattdessen verwenden?",
+    "language_offline_title": "Keine Internetverbindung",
+    "language_offline_use_builtin": "Mitgelieferte Kopie verwenden",
     "language_remove_body": "Das Sprachpaket %1$s wird von diesem Gerät gelöscht. Du kannst es jederzeit erneut herunterladen.",
     "language_remove_title": "%1$s entfernen?",
     "language_state_downloaded": "Heruntergeladen",
     "language_state_in_use": "Aktiv",
-    "language_state_size_kb": "%1$d KB",
     "language_state_translated": "%1$d%% übersetzt",
     "language_state_update_available": "Update verfügbar",
     "language_tap_to_change": "Zum Wechseln tippen",
@@ -806,5 +810,5 @@
     "youtube_quota": "Dein API-Schlüssel hat das Tageskontingent ausgeschöpft — es wird um Mitternacht (Pacific) zurückgesetzt"
   },
   "tag": "de",
-  "version": 9
+  "version": 11
 }

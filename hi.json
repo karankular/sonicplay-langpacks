@@ -123,6 +123,8 @@
     "dac_takes_effect_with_bit_perfect": " बिट-परफ़ेक्ट चालू करते ही यह लागू होगा।",
     "dac_unplug_first": "पहले इस DAC को हटाएँ। जुड़े रहने तक इसकी सेटिंग इस्तेमाल में रहती हैं, और दोबारा जुड़ते ही यह फिर से जुड़ जाएगा।",
     "dac_usb_id": "USB %1$s",
+    "dac_usb_unsupported_body": "यह डिवाइस USB ऑडियो डिवाइस से नहीं जुड़ सकता, इसलिए यहाँ सेट करने को कुछ नहीं है। SonicPlay का बाकी सब कुछ सामान्य रूप से काम करता है।",
+    "dac_usb_unsupported_title": "USB ऑडियो समर्थित नहीं",
     "dac_use_software_volume": "सॉफ़्टवेयर वॉल्यूम इस्तेमाल करें",
     "dup_all": "सभी",
     "dup_delete_title": "%1$d गाने मिटाएँ?",
@@ -244,11 +246,13 @@
     "language_in_use": "इस्तेमाल में",
     "language_intro": "जो भाषाएँ चाहें उन्हें डाउनलोड करें और कभी भी बदलें। नई भाषाएँ ऐप अपडेट किए बिना जोड़ी जा सकती हैं, और जो हिस्सा किसी भाषा में अभी नहीं है वह अंग्रेज़ी में ही रहेगा।",
     "language_none_available": "अभी कोई और भाषा उपलब्ध नहीं है।",
+    "language_offline_body": "%1$s डाउनलोड नहीं हो सका। ऐप में एक कॉपी शामिल है — यह नवीनतम से थोड़ी पुरानी हो सकती है। क्या इसी का उपयोग करें?",
+    "language_offline_title": "इंटरनेट कनेक्शन नहीं है",
+    "language_offline_use_builtin": "शामिल कॉपी इस्तेमाल करें",
     "language_remove_body": "%1$s भाषा पैक इस डिवाइस से मिटा दिया जाएगा। आप इसे कभी भी फिर से डाउनलोड कर सकते हैं।",
     "language_remove_title": "%1$s हटाएँ?",
     "language_state_downloaded": "डाउनलोड हो चुका",
     "language_state_in_use": "इस्तेमाल में",
-    "language_state_size_kb": "%1$d KB",
     "language_state_translated": "%1$d%% अनुवादित",
     "language_state_update_available": "अपडेट उपलब्ध",
     "language_tap_to_change": "बदलने के लिए दबाएँ",
@@ -806,5 +810,5 @@
     "youtube_quota": "आपकी API कुंजी का आज का कोटा ख़त्म हो गया — यह पैसिफ़िक समय की आधी रात को रीसेट होता है"
   },
   "tag": "hi",
-  "version": 9
+  "version": 11
 }

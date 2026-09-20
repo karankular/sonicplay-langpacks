@@ -123,6 +123,8 @@
     "dac_takes_effect_with_bit_perfect": " Berlaku setelah mode bit-perfect diaktifkan.",
     "dac_unplug_first": "Cabut dulu DAC ini. Pengaturannya sedang dipakai selama terhubung, dan perangkatnya akan langsung ditambahkan lagi begitu tersambung kembali.",
     "dac_usb_id": "USB %1$s",
+    "dac_usb_unsupported_body": "Perangkat ini tidak dapat menghubungkan perangkat audio USB, jadi tidak ada yang perlu diatur di sini. Semua hal lain di SonicPlay berfungsi seperti biasa.",
+    "dac_usb_unsupported_title": "Audio USB tidak didukung",
     "dac_use_software_volume": "Gunakan volume perangkat lunak",
     "dup_all": "Semua",
     "dup_delete_title": "Hapus %1$d lagu?",
@@ -244,11 +246,13 @@
     "language_in_use": "Digunakan",
     "language_intro": "Unduh bahasa yang Anda inginkan dan beralih kapan saja. Bahasa baru bisa ditambahkan tanpa memperbarui aplikasi, dan apa pun yang belum diterjemahkan tetap dalam bahasa Inggris.",
     "language_none_available": "Belum ada bahasa tambahan yang tersedia.",
+    "language_offline_body": "%1$s tidak dapat diunduh. Salinannya sudah disertakan dalam aplikasi — mungkin sedikit lebih lama daripada yang terbaru. Gunakan salinan itu?",
+    "language_offline_title": "Tidak ada koneksi internet",
+    "language_offline_use_builtin": "Gunakan salinan bawaan",
     "language_remove_body": "Paket bahasa %1$s akan dihapus dari perangkat ini. Anda bisa mengunduhnya lagi kapan saja.",
     "language_remove_title": "Hapus %1$s?",
     "language_state_downloaded": "Terunduh",
     "language_state_in_use": "Digunakan",
-    "language_state_size_kb": "%1$d KB",
     "language_state_translated": "%1$d%% diterjemahkan",
     "language_state_update_available": "Pembaruan tersedia",
     "language_tap_to_change": "Ketuk untuk mengganti",
@@ -806,5 +810,5 @@
     "youtube_quota": "Kuota harian kunci API Anda habis — kuotanya diatur ulang tengah malam waktu Pasifik"
   },
   "tag": "id",
-  "version": 9
+  "version": 11
 }

@@ -123,6 +123,8 @@
     "dac_takes_effect_with_bit_perfect": " Surte efecto cuando se activa el modo bit-perfect.",
     "dac_unplug_first": "Desconecta primero este DAC. Sus ajustes están en uso mientras esté conectado, y se volvería a añadir en cuanto se reconectara.",
     "dac_usb_id": "USB %1$s",
+    "dac_usb_unsupported_body": "Este dispositivo no puede conectar dispositivos de audio USB, así que no hay nada que configurar aquí. Todo lo demás en SonicPlay funciona con normalidad.",
+    "dac_usb_unsupported_title": "Audio USB no compatible",
     "dac_use_software_volume": "Usar volumen por software",
     "dup_all": "Todas",
     "dup_delete_title": "¿Eliminar %1$d canciones?",
@@ -244,11 +246,13 @@
     "language_in_use": "En uso",
     "language_intro": "Descarga los idiomas que quieras y cambia entre ellos cuando quieras. Se pueden añadir idiomas nuevos sin actualizar la aplicación, y todo lo que un idioma aún no cubra se queda en inglés.",
     "language_none_available": "Todavía no hay más idiomas disponibles.",
+    "language_offline_body": "No se pudo descargar %1$s. La aplicación incluye una copia, que puede ser algo más antigua que la última. ¿Usarla en su lugar?",
+    "language_offline_title": "Sin conexión a Internet",
+    "language_offline_use_builtin": "Usar la copia incluida",
     "language_remove_body": "El paquete de idioma %1$s se eliminará de este dispositivo. Puedes volver a descargarlo cuando quieras.",
     "language_remove_title": "¿Eliminar %1$s?",
     "language_state_downloaded": "Descargado",
     "language_state_in_use": "En uso",
-    "language_state_size_kb": "%1$d KB",
     "language_state_translated": "%1$d%% traducido",
     "language_state_update_available": "Actualización disponible",
     "language_tap_to_change": "Toca para cambiar",
@@ -806,5 +810,5 @@
     "youtube_quota": "Tu clave de API agotó la cuota de hoy: se reinicia a medianoche (hora del Pacífico)"
   },
   "tag": "es",
-  "version": 9
+  "version": 11
 }

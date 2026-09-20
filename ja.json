@@ -123,6 +123,8 @@
     "dac_takes_effect_with_bit_perfect": " ビットパーフェクトをオンにすると有効になります。",
     "dac_unplug_first": "先にこの DAC を取り外してください。接続中は設定が使用中で、再接続するとすぐに追加し直されます。",
     "dac_usb_id": "USB %1$s",
+    "dac_usb_unsupported_body": "この端末は USB オーディオ機器を接続できないため、ここで設定するものはありません。SonicPlay のその他の機能は通常どおり使えます。",
+    "dac_usb_unsupported_title": "USB オーディオは非対応",
     "dac_use_software_volume": "ソフトウェア音量を使う",
     "dup_all": "すべて",
     "dup_delete_title": "%1$d 曲を削除しますか？",
@@ -244,11 +246,13 @@
     "language_in_use": "使用中",
     "language_intro": "必要な言語をダウンロードして、いつでも切り替えられます。新しい言語はアプリを更新しなくても追加でき、未翻訳の部分は英語のまま表示されます。",
     "language_none_available": "現在、追加できる言語はありません。",
+    "language_offline_body": "%1$s をダウンロードできませんでした。アプリに同梱されたコピーがあります（最新版より少し古い場合があります）。こちらを使いますか？",
+    "language_offline_title": "インターネットに接続していません",
+    "language_offline_use_builtin": "同梱のコピーを使う",
     "language_remove_body": "%1$s の言語パックをこの端末から削除します。いつでも再ダウンロードできます。",
     "language_remove_title": "%1$s を削除しますか？",
     "language_state_downloaded": "ダウンロード済み",
     "language_state_in_use": "使用中",
-    "language_state_size_kb": "%1$d KB",
     "language_state_translated": "%1$d%% 翻訳済み",
     "language_state_update_available": "更新があります",
     "language_tap_to_change": "タップして変更",
@@ -806,5 +810,5 @@
     "youtube_quota": "API キーの本日分の割り当てを使い切りました。太平洋時間の午前 0 時にリセットされます"
   },
   "tag": "ja",
-  "version": 9
+  "version": 11
 }

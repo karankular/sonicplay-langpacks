@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "tag": "es",
+  "version": 1,
+  "strings": {
+    "notification_channel_name": "Reproducción de música",
+    "notification_channel_description": "Controles de reproducción de música",
+    "permission_title": "Se requiere permiso de almacenamiento",
+    "permission_description": "SonicPlay necesita acceso a tus archivos de audio para reproducir música. Ningún dato sale de tu dispositivo.",
+    "widget_small_desc": "Widget pequeño de SonicPlay (2x1)",
+    "widget_medium_desc": "Widget mediano de SonicPlay (4x1)",
+    "widget_large_desc": "Widget grande de SonicPlay (4x2)",
+    "dac_config_title": "Configuración del DAC",
+    "dac_section_volume": "VOLUMEN",
+    "dac_section_dsd": "SALIDA DSD",
+    "dac_section_volume_safety": "SEGURIDAD DE VOLUMEN",
+    "dac_remove_device": "Eliminar dispositivo",
+    "dac_remove_confirm_title": "¿Eliminar %1$s?",
+    "dac_remove": "Eliminar",
+    "dac_cancel": "Cancelar",
+    "dac_still_connected": "Aún conectado",
+    "dac_device": "Dispositivo",
+    "dac_main_setting": "Ajuste principal",
+    "dac_off": "Desactivado",
+    "dac_empty_title": "Aún no hay DAC"
+  }
+}

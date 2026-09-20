@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "tag": "ja",
+  "version": 1,
+  "strings": {
+    "notification_channel_name": "音楽の再生",
+    "notification_channel_description": "音楽再生のコントロール",
+    "permission_title": "ストレージの許可が必要です",
+    "permission_description": "音楽を再生するには、SonicPlay にオーディオファイルへのアクセスが必要です。データが端末外に送られることはありません。",
+    "widget_small_desc": "SonicPlay 小ウィジェット (2x1)",
+    "widget_medium_desc": "SonicPlay 中ウィジェット (4x1)",
+    "widget_large_desc": "SonicPlay 大ウィジェット (4x2)",
+    "dac_config_title": "DAC 設定",
+    "dac_section_volume": "音量",
+    "dac_section_dsd": "DSD 出力",
+    "dac_section_volume_safety": "音量の安全設定",
+    "dac_remove_device": "デバイスを削除",
+    "dac_remove_confirm_title": "%1$s を削除しますか？",
+    "dac_remove": "削除",
+    "dac_cancel": "キャンセル",
+    "dac_still_connected": "接続中",
+    "dac_device": "デバイス",
+    "dac_main_setting": "メイン設定",
+    "dac_off": "オフ",
+    "dac_empty_title": "DAC はまだありません"
+  }
+}

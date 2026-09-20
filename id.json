@@ -627,6 +627,7 @@
     "song_add_to_playlist": "Tambahkan ke playlist",
     "song_add_to_queue": "Tambahkan ke antrean",
     "song_album_subtitle": "%1$s • %2$d lagu",
+    "song_album_subtitle_one": "%1$s • %2$d lagu",
     "song_delete_album": "Hapus album",
     "song_delete_album_body_one": "“%1$s” dan %2$d lagunya akan dihapus permanen dari perangkat ini.",
     "song_delete_album_body_other": "“%1$s” dan %2$d lagunya akan dihapus permanen dari perangkat ini.",
@@ -719,5 +720,5 @@
     "youtube_quota": "Kuota harian kunci API Anda habis — kuotanya diatur ulang tengah malam waktu Pasifik"
   },
   "tag": "id",
-  "version": 5
+  "version": 6
 }

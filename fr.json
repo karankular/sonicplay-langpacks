@@ -627,6 +627,7 @@
     "song_add_to_playlist": "Ajouter à une playlist",
     "song_add_to_queue": "Ajouter à la file",
     "song_album_subtitle": "%1$s • %2$d morceaux",
+    "song_album_subtitle_one": "%1$s • %2$d morceau",
     "song_delete_album": "Supprimer l'album",
     "song_delete_album_body_one": "« %1$s » et son %2$d morceau seront définitivement supprimés de cet appareil.",
     "song_delete_album_body_other": "« %1$s » et ses %2$d morceaux seront définitivement supprimés de cet appareil.",
@@ -719,5 +720,5 @@
     "youtube_quota": "Votre clé API a épuisé son quota du jour — il se réinitialise à minuit (Pacifique)"
   },
   "tag": "fr",
-  "version": 7
+  "version": 8
 }

@@ -627,6 +627,7 @@
     "song_add_to_playlist": "प्लेलिस्ट में जोड़ें",
     "song_add_to_queue": "कतार में जोड़ें",
     "song_album_subtitle": "%1$s • %2$d गाने",
+    "song_album_subtitle_one": "%1$s • %2$d गाना",
     "song_delete_album": "एल्बम मिटाएँ",
     "song_delete_album_body_one": "“%1$s” और इसका %2$d गाना इस डिवाइस से हमेशा के लिए मिट जाएगा।",
     "song_delete_album_body_other": "“%1$s” और इसके %2$d गाने इस डिवाइस से हमेशा के लिए मिट जाएँगे।",
@@ -719,5 +720,5 @@
     "youtube_quota": "आपकी API कुंजी का आज का कोटा ख़त्म हो गया — यह पैसिफ़िक समय की आधी रात को रीसेट होता है"
   },
   "tag": "hi",
-  "version": 5
+  "version": 6
 }

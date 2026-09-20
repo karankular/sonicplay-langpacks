@@ -627,6 +627,7 @@
     "song_add_to_playlist": "プレイリストに追加",
     "song_add_to_queue": "キューに追加",
     "song_album_subtitle": "%1$s • %2$d 曲",
+    "song_album_subtitle_one": "%1$s • %2$d 曲",
     "song_delete_album": "アルバムを削除",
     "song_delete_album_body_one": "「%1$s」と収録の %2$d 曲がこの端末から完全に削除されます。",
     "song_delete_album_body_other": "「%1$s」と収録の %2$d 曲がこの端末から完全に削除されます。",
@@ -719,5 +720,5 @@
     "youtube_quota": "API キーの本日分の割り当てを使い切りました。太平洋時間の午前 0 時にリセットされます"
   },
   "tag": "ja",
-  "version": 5
+  "version": 6
 }

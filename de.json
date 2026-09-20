@@ -627,6 +627,7 @@
     "song_add_to_playlist": "Zu Playlist hinzufügen",
     "song_add_to_queue": "Zur Warteschlange",
     "song_album_subtitle": "%1$s • %2$d Titel",
+    "song_album_subtitle_one": "%1$s • %2$d Titel",
     "song_delete_album": "Album löschen",
     "song_delete_album_body_one": "„%1$s“ und sein %2$d Titel werden endgültig von diesem Gerät gelöscht.",
     "song_delete_album_body_other": "„%1$s“ und seine %2$d Titel werden endgültig von diesem Gerät gelöscht.",
@@ -719,5 +720,5 @@
     "youtube_quota": "Dein API-Schlüssel hat das Tageskontingent ausgeschöpft — es wird um Mitternacht (Pacific) zurückgesetzt"
   },
   "tag": "de",
-  "version": 5
+  "version": 6
 }

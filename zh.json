@@ -187,7 +187,7 @@
     "home_add_music_files": "将音乐文件添加到设备中即可开始使用",
     "home_albums": "专辑",
     "home_artists": "艺术家",
-    "home_auto_play": "自动播放",
+    "home_auto_play": "继续播放下一个文件夹",
     "home_composers": "作曲家",
     "home_dac_configuration": "DAC 配置",
     "home_favorites": "收藏",
@@ -276,6 +276,8 @@
     "lyrics_synced_badge": "已同步",
     "lyrics_title": "歌词",
     "lyrics_try_editing": "请尝试修改上方的搜索内容",
+    "main_auto_play": "自动播放",
+    "main_auto_play_subtitle": "此队列结束后，自动播放曲库中的其余歌曲",
     "main_clear_queue": "清空队列",
     "main_dac_volume_info": "默认情况下，SonicPlay 会让 USB DAC 的音量由其自身控制——请使用 DAC 上的音量按钮。\n\n如果您的 DAC 没有音量按钮，请在“设置 → 音质”中开启“使用 DAC 硬件音量”，让手机的音量键来控制它。",
     "main_queue_title": "队列（%1$d 首歌曲）",
@@ -812,5 +814,5 @@
     "youtube_quota": "您的 API 密钥今日额度已用尽——将于太平洋时间午夜重置"
   },
   "tag": "zh",
-  "version": 1
+  "version": 2
 }

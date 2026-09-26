@@ -187,7 +187,7 @@
     "home_add_music_files": "Tambahkan berkas musik ke perangkat Anda untuk memulai",
     "home_albums": "Album",
     "home_artists": "Artis",
-    "home_auto_play": "Putar Otomatis",
+    "home_auto_play": "Lanjut ke Folder Berikutnya",
     "home_composers": "Komposer",
     "home_dac_configuration": "Konfigurasi DAC",
     "home_favorites": "Favorit",
@@ -276,6 +276,8 @@
     "lyrics_synced_badge": "TERSINKRON",
     "lyrics_title": "Lirik",
     "lyrics_try_editing": "Coba ubah kata pencarian di atas",
+    "main_auto_play": "Putar Otomatis",
+    "main_auto_play_subtitle": "Melanjutkan dengan sisa pustaka musik Anda setelah antrean ini berakhir",
     "main_clear_queue": "Kosongkan antrean",
     "main_dac_volume_info": "Secara bawaan, SonicPlay menyerahkan volume DAC USB Anda kepada kontrol DAC itu sendiri — gunakan tombol volumenya.\\n\\nJika DAC Anda tidak punya tombol volume, aktifkan “Gunakan volume perangkat keras DAC” di Pengaturan → Kualitas Audio agar tombol volume ponsel yang mengendalikannya.",
     "main_queue_title": "Antrean (%1$d lagu)",
@@ -810,5 +812,5 @@
     "youtube_quota": "Kuota harian kunci API Anda habis — kuotanya diatur ulang tengah malam waktu Pasifik"
   },
   "tag": "id",
-  "version": 11
+  "version": 12
 }

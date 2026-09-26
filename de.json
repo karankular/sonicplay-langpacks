@@ -187,7 +187,7 @@
     "home_add_music_files": "Füge Musikdateien auf deinem Gerät hinzu, um loszulegen",
     "home_albums": "Alben",
     "home_artists": "Interpreten",
-    "home_auto_play": "Autoplay",
+    "home_auto_play": "Mit nächstem Ordner fortfahren",
     "home_composers": "Komponisten",
     "home_dac_configuration": "DAC-Konfiguration",
     "home_favorites": "Favoriten",
@@ -276,6 +276,8 @@
     "lyrics_synced_badge": "SYNCHRON",
     "lyrics_title": "Songtext",
     "lyrics_try_editing": "Versuche, die Suchanfrage oben anzupassen",
+    "main_auto_play": "Autoplay",
+    "main_auto_play_subtitle": "Spielt nach dieser Warteschlange mit dem Rest deiner Bibliothek weiter",
     "main_clear_queue": "Warteschlange leeren",
     "main_dac_volume_info": "Standardmäßig überlässt SonicPlay die Lautstärke deines USB-DACs dessen eigenen Reglern — nutze seine Lautstärketasten.\\n\\nHat dein DAC keine Lautstärketasten, aktiviere „DAC-Hardwarelautstärke verwenden“ unter Einstellungen → Audioqualität, damit die Tasten des Telefons sie steuern.",
     "main_queue_title": "Warteschlange (%1$d Titel)",
@@ -810,5 +812,5 @@
     "youtube_quota": "Dein API-Schlüssel hat das Tageskontingent ausgeschöpft — es wird um Mitternacht (Pacific) zurückgesetzt"
   },
   "tag": "de",
-  "version": 11
+  "version": 12
 }

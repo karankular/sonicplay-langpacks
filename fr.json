@@ -187,7 +187,7 @@
     "home_add_music_files": "Ajoutez des fichiers musicaux à votre appareil pour commencer",
     "home_albums": "Albums",
     "home_artists": "Artistes",
-    "home_auto_play": "Lecture auto",
+    "home_auto_play": "Passer au dossier suivant",
     "home_composers": "Compositeurs",
     "home_dac_configuration": "Configuration du DAC",
     "home_favorites": "Favoris",
@@ -276,6 +276,8 @@
     "lyrics_synced_badge": "SYNCHRO",
     "lyrics_title": "Paroles",
     "lyrics_try_editing": "Essayez de modifier la recherche ci-dessus",
+    "main_auto_play": "Lecture automatique",
+    "main_auto_play_subtitle": "Enchaîne avec le reste de votre bibliothèque une fois cette file d'attente terminée",
     "main_clear_queue": "Vider la file",
     "main_dac_volume_info": "Par défaut, SonicPlay laisse le volume de votre DAC USB à ses propres commandes — utilisez ses boutons de volume.\\n\\nSi votre DAC n'a pas de boutons de volume, activez « Utiliser le volume matériel du DAC » dans Paramètres → Qualité audio pour que les touches du téléphone le pilotent.",
     "main_queue_title": "File d'attente (%1$d morceaux)",
@@ -810,5 +812,5 @@
     "youtube_quota": "Votre clé API a épuisé son quota du jour — il se réinitialise à minuit (Pacifique)"
   },
   "tag": "fr",
-  "version": 13
+  "version": 14
 }

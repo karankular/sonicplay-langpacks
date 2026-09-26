@@ -187,7 +187,7 @@
     "home_add_music_files": "端末に音楽ファイルを追加すると始められます",
     "home_albums": "アルバム",
     "home_artists": "アーティスト",
-    "home_auto_play": "自動再生",
+    "home_auto_play": "次のフォルダへ進む",
     "home_composers": "作曲者",
     "home_dac_configuration": "DAC の設定",
     "home_favorites": "お気に入り",
@@ -276,6 +276,8 @@
     "lyrics_synced_badge": "同期",
     "lyrics_title": "歌詞",
     "lyrics_try_editing": "上の検索語を変えてみてください",
+    "main_auto_play": "自動再生",
+    "main_auto_play_subtitle": "このキューが終わると、ライブラリの残りの曲を再生します",
     "main_clear_queue": "キューを空にする",
     "main_dac_volume_info": "SonicPlay は既定で、USB DAC の音量を DAC 自身の操作にまかせます。DAC の音量ボタンをお使いください。\\n\\nDAC に音量ボタンがない場合は、設定 → 音質 で「DAC のハードウェア音量を使う」をオンにすると、スマートフォンの音量キーで操作できます。",
     "main_queue_title": "キュー（%1$d 曲）",
@@ -810,5 +812,5 @@
     "youtube_quota": "API キーの本日分の割り当てを使い切りました。太平洋時間の午前 0 時にリセットされます"
   },
   "tag": "ja",
-  "version": 11
+  "version": 12
 }

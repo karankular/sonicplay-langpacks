@@ -279,6 +279,11 @@
     "main_auto_play": "自动播放",
     "main_auto_play_subtitle": "此队列结束后，自动播放曲库中的其余歌曲",
     "main_clear_queue": "清空队列",
+    "main_dac_hw_prompt_body": "它是否有自己的物理音量按钮或旋钮？\n\n如果没有，可以直接用手机的音量键来控制。",
+    "main_dac_hw_prompt_has_buttons": "有自己的按钮",
+    "main_dac_hw_prompt_no_buttons": "没有按钮——使用手机",
+    "main_dac_hw_prompt_remember": "记住此 DAC 的设置",
+    "main_dac_hw_prompt_title": "%1$s 的音量",
     "main_dac_volume_info": "默认情况下，SonicPlay 会让 USB DAC 的音量由其自身控制——请使用 DAC 上的音量按钮。\n\n如果您的 DAC 没有音量按钮，请在“设置 → 音质”中开启“使用 DAC 硬件音量”，让手机的音量键来控制它。",
     "main_queue_title": "队列（%1$d 首歌曲）",
     "main_save_as_playlist": "保存为播放列表",
@@ -814,5 +819,5 @@
     "youtube_quota": "您的 API 密钥今日额度已用尽——将于太平洋时间午夜重置"
   },
   "tag": "zh",
-  "version": 2
+  "version": 3
 }

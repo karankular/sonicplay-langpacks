@@ -279,6 +279,11 @@
     "main_auto_play": "Reprodução automática",
     "main_auto_play_subtitle": "Continua com o restante da sua biblioteca quando esta fila terminar",
     "main_clear_queue": "Limpar a fila",
+    "main_dac_hw_prompt_body": "Ele tem botões ou uma roda de volume próprios?\n\nSe não, as teclas de volume do seu telefone podem controlá-lo diretamente.",
+    "main_dac_hw_prompt_has_buttons": "Tem botões próprios",
+    "main_dac_hw_prompt_no_buttons": "Sem botões — usar o telefone",
+    "main_dac_hw_prompt_remember": "Lembrar para este DAC",
+    "main_dac_hw_prompt_title": "Volume de %1$s",
     "main_dac_volume_info": "Por padrão, o SonicPlay deixa o volume do seu DAC USB com os controles do próprio DAC — use os botões de volume dele.\\n\\nSe o seu DAC não tiver botões de volume, ligue “Usar o volume por hardware do DAC” em Configurações → Qualidade de áudio para as teclas do celular controlarem.",
     "main_queue_title": "Fila (%1$d músicas)",
     "main_save_as_playlist": "Salvar como playlist",
@@ -786,6 +791,7 @@
     "track_info_track": "Faixa",
     "track_info_unknown": "Desconhecido",
     "track_info_year": "Ano",
+    "update_action_failed": "Não foi possível conectar ao Google Play. Tente novamente ou atualize pela Play Store.",
     "update_available_body": "Há uma nova versão do SonicWave com os recursos e as correções mais recentes. Atualize agora para a melhor experiência.",
     "update_available_title": "Atualização disponível",
     "update_downloaded_body": "A nova versão terminou de baixar. Reinicie agora para concluir a instalação.",
@@ -801,6 +807,7 @@
     "welcome_title": "Boas-vindas ao SonicPlay",
     "widget_large_desc": "Widget grande do SonicPlay (4x2)",
     "widget_medium_desc": "Widget médio do SonicPlay (4x1)",
+    "widget_not_playing": "Nada tocando",
     "widget_small_desc": "Widget pequeno do SonicPlay (2x1)",
     "years_none": "Nenhum ano encontrado",
     "youtube_bad_key": "Essa chave de API foi recusada — verifique-a e confira se a YouTube Data API v3 está ativada",
@@ -812,5 +819,5 @@
     "youtube_quota": "Sua chave de API esgotou a cota de hoje — ela é reiniciada à meia-noite (horário do Pacífico)"
   },
   "tag": "pt-BR",
-  "version": 12
+  "version": 13
 }

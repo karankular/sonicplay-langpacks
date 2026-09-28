@@ -279,6 +279,11 @@
     "main_auto_play": "自動再生",
     "main_auto_play_subtitle": "このキューが終わると、ライブラリの残りの曲を再生します",
     "main_clear_queue": "キューを空にする",
+    "main_dac_hw_prompt_body": "本体に専用の音量ボタンやつまみはありますか？\n\nない場合は、スマートフォンの音量キーで直接操作できます。",
+    "main_dac_hw_prompt_has_buttons": "専用ボタンがある",
+    "main_dac_hw_prompt_no_buttons": "ボタンなし — スマホを使う",
+    "main_dac_hw_prompt_remember": "このDACの設定を記憶する",
+    "main_dac_hw_prompt_title": "%1$s の音量",
     "main_dac_volume_info": "SonicPlay は既定で、USB DAC の音量を DAC 自身の操作にまかせます。DAC の音量ボタンをお使いください。\\n\\nDAC に音量ボタンがない場合は、設定 → 音質 で「DAC のハードウェア音量を使う」をオンにすると、スマートフォンの音量キーで操作できます。",
     "main_queue_title": "キュー（%1$d 曲）",
     "main_save_as_playlist": "プレイリストとして保存",
@@ -786,6 +791,7 @@
     "track_info_track": "トラック",
     "track_info_unknown": "不明",
     "track_info_year": "年",
+    "update_action_failed": "Google Playに接続できませんでした。もう一度お試しいただくか、Playストアから更新してください。",
     "update_available_body": "最新の機能と修正を含む SonicWave の新しいバージョンがあります。今すぐ更新すると快適にお使いいただけます。",
     "update_available_title": "更新があります",
     "update_downloaded_body": "新しいバージョンのダウンロードが完了しました。再起動するとインストールが完了します。",
@@ -801,6 +807,7 @@
     "welcome_title": "SonicPlay へようこそ",
     "widget_large_desc": "SonicPlay 大ウィジェット (4x2)",
     "widget_medium_desc": "SonicPlay 中ウィジェット (4x1)",
+    "widget_not_playing": "再生していません",
     "widget_small_desc": "SonicPlay 小ウィジェット (2x1)",
     "years_none": "年が見つかりません",
     "youtube_bad_key": "その API キーは拒否されました。キーと、YouTube Data API v3 が有効かどうかを確認してください",
@@ -812,5 +819,5 @@
     "youtube_quota": "API キーの本日分の割り当てを使い切りました。太平洋時間の午前 0 時にリセットされます"
   },
   "tag": "ja",
-  "version": 12
+  "version": 13
 }

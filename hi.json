@@ -279,6 +279,11 @@
     "main_auto_play": "ऑटो प्ले",
     "main_auto_play_subtitle": "यह कतार खत्म होने पर आपकी बाकी लाइब्रेरी से आगे बढ़ता है",
     "main_clear_queue": "कतार खाली करें",
+    "main_dac_hw_prompt_body": "क्या इसमें अपने खुद के वॉल्यूम बटन या नॉब हैं?\n\nअगर नहीं, तो आपके फ़ोन के वॉल्यूम बटन इसे सीधे नियंत्रित कर सकते हैं।",
+    "main_dac_hw_prompt_has_buttons": "इसके अपने बटन हैं",
+    "main_dac_hw_prompt_no_buttons": "कोई बटन नहीं — फ़ोन इस्तेमाल करें",
+    "main_dac_hw_prompt_remember": "इस DAC के लिए याद रखें",
+    "main_dac_hw_prompt_title": "%1$s के लिए वॉल्यूम",
     "main_dac_volume_info": "डिफ़ॉल्ट रूप से SonicPlay आपके USB DAC का वॉल्यूम उसी के अपने नियंत्रण पर छोड़ देता है — उसके वॉल्यूम बटन इस्तेमाल करें।\\n\\nअगर आपके DAC में वॉल्यूम बटन नहीं हैं, तो सेटिंग → ऑडियो गुणवत्ता में “DAC का हार्डवेयर वॉल्यूम इस्तेमाल करें” चालू करें ताकि फ़ोन की वॉल्यूम कुंजियाँ उसे चला सकें।",
     "main_queue_title": "कतार (%1$d गाने)",
     "main_save_as_playlist": "प्लेलिस्ट के रूप में सहेजें",
@@ -786,6 +791,7 @@
     "track_info_track": "ट्रैक",
     "track_info_unknown": "अज्ञात",
     "track_info_year": "वर्ष",
+    "update_action_failed": "Google Play तक नहीं पहुंच सका। कृपया फिर से कोशिश करें, या Play Store से अपडेट करें।",
     "update_available_body": "SonicWave का नया संस्करण नवीनतम सुविधाओं और सुधारों के साथ उपलब्ध है। बेहतरीन अनुभव के लिए अभी अपडेट करें।",
     "update_available_title": "अपडेट उपलब्ध है",
     "update_downloaded_body": "नया संस्करण डाउनलोड हो चुका है। इंस्टॉल पूरा करने के लिए अभी दोबारा शुरू करें।",
@@ -801,6 +807,7 @@
     "welcome_title": "SonicPlay में आपका स्वागत है",
     "widget_large_desc": "SonicPlay बड़ा विजेट (4x2)",
     "widget_medium_desc": "SonicPlay मध्यम विजेट (4x1)",
+    "widget_not_playing": "कुछ नहीं चल रहा",
     "widget_small_desc": "SonicPlay छोटा विजेट (2x1)",
     "years_none": "कोई वर्ष नहीं मिला",
     "youtube_bad_key": "वह API कुंजी अस्वीकार कर दी गई — उसे जाँचें, और यह भी कि YouTube Data API v3 चालू है",
@@ -812,5 +819,5 @@
     "youtube_quota": "आपकी API कुंजी का आज का कोटा ख़त्म हो गया — यह पैसिफ़िक समय की आधी रात को रीसेट होता है"
   },
   "tag": "hi",
-  "version": 12
+  "version": 13
 }

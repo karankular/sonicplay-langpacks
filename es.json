@@ -279,6 +279,11 @@
     "main_auto_play": "Reproducción automática",
     "main_auto_play_subtitle": "Continúa con el resto de tu biblioteca cuando esta cola termine",
     "main_clear_queue": "Vaciar la cola",
+    "main_dac_hw_prompt_body": "¿Tiene sus propios botones o rueda de volumen?\n\nSi no, las teclas de volumen de tu teléfono pueden controlarlo directamente.",
+    "main_dac_hw_prompt_has_buttons": "Tiene sus propios botones",
+    "main_dac_hw_prompt_no_buttons": "Sin botones: usar el teléfono",
+    "main_dac_hw_prompt_remember": "Recordar para este DAC",
+    "main_dac_hw_prompt_title": "Volumen de %1$s",
     "main_dac_volume_info": "Por defecto, SonicPlay deja el volumen de tu DAC USB a sus propios controles: usa sus botones de volumen.\\n\\nSi tu DAC no tiene botones de volumen, activa «Usar el volumen por hardware del DAC» en Ajustes → Calidad de audio para que lo controlen las teclas del teléfono.",
     "main_queue_title": "Cola (%1$d canciones)",
     "main_save_as_playlist": "Guardar como lista",
@@ -786,6 +791,7 @@
     "track_info_track": "Pista",
     "track_info_unknown": "Desconocido",
     "track_info_year": "Año",
+    "update_action_failed": "No se pudo conectar con Google Play. Inténtalo de nuevo, o actualiza desde la Play Store.",
     "update_available_body": "Hay una nueva versión de SonicWave con las últimas funciones y correcciones. Actualiza ahora para la mejor experiencia.",
     "update_available_title": "Actualización disponible",
     "update_downloaded_body": "La nueva versión ha terminado de descargarse. Reinicia ahora para terminar de instalarla.",
@@ -801,6 +807,7 @@
     "welcome_title": "Te damos la bienvenida a SonicPlay",
     "widget_large_desc": "Widget grande de SonicPlay (4x2)",
     "widget_medium_desc": "Widget mediano de SonicPlay (4x1)",
+    "widget_not_playing": "Nada en reproducción",
     "widget_small_desc": "Widget pequeño de SonicPlay (2x1)",
     "years_none": "No se encontraron años",
     "youtube_bad_key": "Esa clave de API fue rechazada: compruébala y comprueba que la API de YouTube Data v3 esté habilitada",
@@ -812,5 +819,5 @@
     "youtube_quota": "Tu clave de API agotó la cuota de hoy: se reinicia a medianoche (hora del Pacífico)"
   },
   "tag": "es",
-  "version": 12
+  "version": 13
 }

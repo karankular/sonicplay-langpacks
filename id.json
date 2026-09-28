@@ -279,6 +279,11 @@
     "main_auto_play": "Putar Otomatis",
     "main_auto_play_subtitle": "Melanjutkan dengan sisa pustaka musik Anda setelah antrean ini berakhir",
     "main_clear_queue": "Kosongkan antrean",
+    "main_dac_hw_prompt_body": "Apakah perangkat ini punya tombol atau kenop volume sendiri?\n\nJika tidak, tombol volume ponsel Anda bisa langsung mengontrolnya.",
+    "main_dac_hw_prompt_has_buttons": "Punya tombol sendiri",
+    "main_dac_hw_prompt_no_buttons": "Tanpa tombol — gunakan ponsel",
+    "main_dac_hw_prompt_remember": "Ingat untuk DAC ini",
+    "main_dac_hw_prompt_title": "Volume untuk %1$s",
     "main_dac_volume_info": "Secara bawaan, SonicPlay menyerahkan volume DAC USB Anda kepada kontrol DAC itu sendiri — gunakan tombol volumenya.\\n\\nJika DAC Anda tidak punya tombol volume, aktifkan “Gunakan volume perangkat keras DAC” di Pengaturan → Kualitas Audio agar tombol volume ponsel yang mengendalikannya.",
     "main_queue_title": "Antrean (%1$d lagu)",
     "main_save_as_playlist": "Simpan sebagai playlist",
@@ -786,6 +791,7 @@
     "track_info_track": "Trek",
     "track_info_unknown": "Tidak diketahui",
     "track_info_year": "Tahun",
+    "update_action_failed": "Tidak dapat terhubung ke Google Play. Coba lagi, atau perbarui dari Play Store.",
     "update_available_body": "Versi baru SonicWave tersedia dengan fitur dan perbaikan terbaru. Perbarui sekarang untuk pengalaman terbaik.",
     "update_available_title": "Pembaruan Tersedia",
     "update_downloaded_body": "Versi baru selesai diunduh. Mulai ulang sekarang untuk menyelesaikan pemasangan.",
@@ -801,6 +807,7 @@
     "welcome_title": "Selamat datang di SonicPlay",
     "widget_large_desc": "Widget Besar SonicPlay (4x2)",
     "widget_medium_desc": "Widget Sedang SonicPlay (4x1)",
+    "widget_not_playing": "Tidak sedang memutar",
     "widget_small_desc": "Widget Kecil SonicPlay (2x1)",
     "years_none": "Tahun tidak ditemukan",
     "youtube_bad_key": "Kunci API itu ditolak — periksa kuncinya, dan pastikan YouTube Data API v3 sudah diaktifkan",
@@ -812,5 +819,5 @@
     "youtube_quota": "Kuota harian kunci API Anda habis — kuotanya diatur ulang tengah malam waktu Pasifik"
   },
   "tag": "id",
-  "version": 12
+  "version": 13
 }

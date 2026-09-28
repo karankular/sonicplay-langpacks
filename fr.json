@@ -279,6 +279,11 @@
     "main_auto_play": "Lecture automatique",
     "main_auto_play_subtitle": "Enchaîne avec le reste de votre bibliothèque une fois cette file d'attente terminée",
     "main_clear_queue": "Vider la file",
+    "main_dac_hw_prompt_body": "A-t-il ses propres boutons ou molette de volume ?\n\nSinon, les touches de volume de votre téléphone peuvent le contrôler directement à la place.",
+    "main_dac_hw_prompt_has_buttons": "A ses propres boutons",
+    "main_dac_hw_prompt_no_buttons": "Pas de boutons — utiliser le téléphone",
+    "main_dac_hw_prompt_remember": "Se souvenir pour ce DAC",
+    "main_dac_hw_prompt_title": "Volume pour %1$s",
     "main_dac_volume_info": "Par défaut, SonicPlay laisse le volume de votre DAC USB à ses propres commandes — utilisez ses boutons de volume.\\n\\nSi votre DAC n'a pas de boutons de volume, activez « Utiliser le volume matériel du DAC » dans Paramètres → Qualité audio pour que les touches du téléphone le pilotent.",
     "main_queue_title": "File d'attente (%1$d morceaux)",
     "main_save_as_playlist": "Enregistrer comme playlist",
@@ -786,6 +791,7 @@
     "track_info_track": "Piste",
     "track_info_unknown": "Inconnu",
     "track_info_year": "Année",
+    "update_action_failed": "Impossible de joindre Google Play. Réessayez, ou mettez à jour depuis le Play Store.",
     "update_available_body": "Une nouvelle version de SonicWave est disponible avec les dernières fonctionnalités et corrections. Mettez à jour pour profiter de la meilleure expérience.",
     "update_available_title": "Mise à jour disponible",
     "update_downloaded_body": "La nouvelle version a fini de se télécharger. Redémarrez pour terminer l'installation.",
@@ -801,6 +807,7 @@
     "welcome_title": "Bienvenue dans SonicPlay",
     "widget_large_desc": "Grand widget SonicPlay (4x2)",
     "widget_medium_desc": "Widget moyen SonicPlay (4x1)",
+    "widget_not_playing": "Aucune lecture en cours",
     "widget_small_desc": "Petit widget SonicPlay (2x1)",
     "years_none": "Aucune année trouvée",
     "youtube_bad_key": "Cette clé API a été refusée — vérifiez-la, et que l'API YouTube Data v3 est activée",
@@ -812,5 +819,5 @@
     "youtube_quota": "Votre clé API a épuisé son quota du jour — il se réinitialise à minuit (Pacifique)"
   },
   "tag": "fr",
-  "version": 14
+  "version": 15
 }

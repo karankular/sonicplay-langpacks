@@ -279,6 +279,11 @@
     "main_auto_play": "Autoplay",
     "main_auto_play_subtitle": "Spielt nach dieser Warteschlange mit dem Rest deiner Bibliothek weiter",
     "main_clear_queue": "Warteschlange leeren",
+    "main_dac_hw_prompt_body": "Hat es eigene Lautstärketasten oder einen Regler?\n\nWenn nicht, können die Lautstärketasten deines Telefons es stattdessen direkt steuern.",
+    "main_dac_hw_prompt_has_buttons": "Hat eigene Tasten",
+    "main_dac_hw_prompt_no_buttons": "Keine Tasten — Telefon verwenden",
+    "main_dac_hw_prompt_remember": "Für dieses DAC merken",
+    "main_dac_hw_prompt_title": "Lautstärke für %1$s",
     "main_dac_volume_info": "Standardmäßig überlässt SonicPlay die Lautstärke deines USB-DACs dessen eigenen Reglern — nutze seine Lautstärketasten.\\n\\nHat dein DAC keine Lautstärketasten, aktiviere „DAC-Hardwarelautstärke verwenden“ unter Einstellungen → Audioqualität, damit die Tasten des Telefons sie steuern.",
     "main_queue_title": "Warteschlange (%1$d Titel)",
     "main_save_as_playlist": "Als Playlist speichern",
@@ -786,6 +791,7 @@
     "track_info_track": "Track",
     "track_info_unknown": "Unbekannt",
     "track_info_year": "Jahr",
+    "update_action_failed": "Google Play konnte nicht erreicht werden. Bitte versuche es erneut oder aktualisiere über den Play Store.",
     "update_available_body": "Eine neue Version von SonicWave ist verfügbar, mit den neuesten Funktionen und Fehlerbehebungen. Jetzt aktualisieren für das beste Erlebnis.",
     "update_available_title": "Update verfügbar",
     "update_downloaded_body": "Die neue Version ist fertig heruntergeladen. Starte jetzt neu, um die Installation abzuschließen.",
@@ -801,6 +807,7 @@
     "welcome_title": "Willkommen bei SonicPlay",
     "widget_large_desc": "Großes SonicPlay-Widget (4x2)",
     "widget_medium_desc": "Mittleres SonicPlay-Widget (4x1)",
+    "widget_not_playing": "Keine Wiedergabe",
     "widget_small_desc": "Kleines SonicPlay-Widget (2x1)",
     "years_none": "Keine Jahre gefunden",
     "youtube_bad_key": "Dieser API-Schlüssel wurde abgelehnt — prüfe ihn und ob die YouTube Data API v3 aktiviert ist",
@@ -812,5 +819,5 @@
     "youtube_quota": "Dein API-Schlüssel hat das Tageskontingent ausgeschöpft — es wird um Mitternacht (Pacific) zurückgesetzt"
   },
   "tag": "de",
-  "version": 12
+  "version": 13
 }

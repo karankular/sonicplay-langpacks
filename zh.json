@@ -285,6 +285,11 @@
     "main_dac_hw_prompt_remember": "记住此 DAC 的设置",
     "main_dac_hw_prompt_title": "%1$s 的音量",
     "main_dac_volume_info": "默认情况下，SonicPlay 会让 USB DAC 的音量由其自身控制——请使用 DAC 上的音量按钮。\n\n如果您的 DAC 没有音量按钮，请在“设置 → 音质”中开启“使用 DAC 硬件音量”，让手机的音量键来控制它。",
+    "main_langpack_update_body": "%1$s 有可用的最新翻译。立即更新？",
+    "main_langpack_update_button": "更新",
+    "main_langpack_update_dismiss": "暂不更新",
+    "main_langpack_update_progress": "正在更新 %1$s… (%2$d/%3$d)",
+    "main_langpack_update_title": "语言更新可用",
     "main_queue_title": "队列（%1$d 首歌曲）",
     "main_save_as_playlist": "保存为播放列表",
     "main_save_queue_as_playlist": "将队列保存为播放列表",
@@ -819,5 +824,5 @@
     "youtube_quota": "您的 API 密钥今日额度已用尽——将于太平洋时间午夜重置"
   },
   "tag": "zh",
-  "version": 3
+  "version": 4
 }

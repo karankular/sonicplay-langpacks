@@ -285,6 +285,11 @@
     "main_dac_hw_prompt_remember": "इस DAC के लिए याद रखें",
     "main_dac_hw_prompt_title": "%1$s के लिए वॉल्यूम",
     "main_dac_volume_info": "डिफ़ॉल्ट रूप से SonicPlay आपके USB DAC का वॉल्यूम उसी के अपने नियंत्रण पर छोड़ देता है — उसके वॉल्यूम बटन इस्तेमाल करें।\\n\\nअगर आपके DAC में वॉल्यूम बटन नहीं हैं, तो सेटिंग → ऑडियो गुणवत्ता में “DAC का हार्डवेयर वॉल्यूम इस्तेमाल करें” चालू करें ताकि फ़ोन की वॉल्यूम कुंजियाँ उसे चला सकें।",
+    "main_langpack_update_body": "%1$s के लिए अपडेट किए गए अनुवाद उपलब्ध हैं। अभी अपडेट करें?",
+    "main_langpack_update_button": "अपडेट करें",
+    "main_langpack_update_dismiss": "अभी नहीं",
+    "main_langpack_update_progress": "%1$s को अपडेट किया जा रहा है… (%2$d/%3$d)",
+    "main_langpack_update_title": "भाषा अपडेट उपलब्ध हैं",
     "main_queue_title": "कतार (%1$d गाने)",
     "main_save_as_playlist": "प्लेलिस्ट के रूप में सहेजें",
     "main_save_queue_as_playlist": "कतार को प्लेलिस्ट के रूप में सहेजें",
@@ -819,5 +824,5 @@
     "youtube_quota": "आपकी API कुंजी का आज का कोटा ख़त्म हो गया — यह पैसिफ़िक समय की आधी रात को रीसेट होता है"
   },
   "tag": "hi",
-  "version": 13
+  "version": 14
 }

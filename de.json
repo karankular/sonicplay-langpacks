@@ -285,6 +285,11 @@
     "main_dac_hw_prompt_remember": "Für dieses DAC merken",
     "main_dac_hw_prompt_title": "Lautstärke für %1$s",
     "main_dac_volume_info": "Standardmäßig überlässt SonicPlay die Lautstärke deines USB-DACs dessen eigenen Reglern — nutze seine Lautstärketasten.\\n\\nHat dein DAC keine Lautstärketasten, aktiviere „DAC-Hardwarelautstärke verwenden“ unter Einstellungen → Audioqualität, damit die Tasten des Telefons sie steuern.",
+    "main_langpack_update_body": "Aktualisierte Übersetzungen sind verfügbar für %1$s. Jetzt aktualisieren?",
+    "main_langpack_update_button": "Aktualisieren",
+    "main_langpack_update_dismiss": "Nicht jetzt",
+    "main_langpack_update_progress": "Aktualisiere %1$s… (%2$d/%3$d)",
+    "main_langpack_update_title": "Sprachaktualisierungen verfügbar",
     "main_queue_title": "Warteschlange (%1$d Titel)",
     "main_save_as_playlist": "Als Playlist speichern",
     "main_save_queue_as_playlist": "Warteschlange als Playlist speichern",
@@ -819,5 +824,5 @@
     "youtube_quota": "Dein API-Schlüssel hat das Tageskontingent ausgeschöpft — es wird um Mitternacht (Pacific) zurückgesetzt"
   },
   "tag": "de",
-  "version": 13
+  "version": 14
 }

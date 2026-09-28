@@ -285,6 +285,11 @@
     "main_dac_hw_prompt_remember": "Ingat untuk DAC ini",
     "main_dac_hw_prompt_title": "Volume untuk %1$s",
     "main_dac_volume_info": "Secara bawaan, SonicPlay menyerahkan volume DAC USB Anda kepada kontrol DAC itu sendiri — gunakan tombol volumenya.\\n\\nJika DAC Anda tidak punya tombol volume, aktifkan “Gunakan volume perangkat keras DAC” di Pengaturan → Kualitas Audio agar tombol volume ponsel yang mengendalikannya.",
+    "main_langpack_update_body": "Terjemahan terbaru tersedia untuk %1$s. Perbarui sekarang?",
+    "main_langpack_update_button": "Perbarui",
+    "main_langpack_update_dismiss": "Nanti saja",
+    "main_langpack_update_progress": "Memperbarui %1$s… (%2$d/%3$d)",
+    "main_langpack_update_title": "Pembaruan bahasa tersedia",
     "main_queue_title": "Antrean (%1$d lagu)",
     "main_save_as_playlist": "Simpan sebagai playlist",
     "main_save_queue_as_playlist": "Simpan antrean sebagai playlist",
@@ -819,5 +824,5 @@
     "youtube_quota": "Kuota harian kunci API Anda habis — kuotanya diatur ulang tengah malam waktu Pasifik"
   },
   "tag": "id",
-  "version": 13
+  "version": 14
 }

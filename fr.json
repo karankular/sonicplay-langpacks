@@ -285,6 +285,11 @@
     "main_dac_hw_prompt_remember": "Se souvenir pour ce DAC",
     "main_dac_hw_prompt_title": "Volume pour %1$s",
     "main_dac_volume_info": "Par défaut, SonicPlay laisse le volume de votre DAC USB à ses propres commandes — utilisez ses boutons de volume.\\n\\nSi votre DAC n'a pas de boutons de volume, activez « Utiliser le volume matériel du DAC » dans Paramètres → Qualité audio pour que les touches du téléphone le pilotent.",
+    "main_langpack_update_body": "Des traductions mises à jour sont disponibles pour %1$s. Mettre à jour maintenant ?",
+    "main_langpack_update_button": "Mettre à jour",
+    "main_langpack_update_dismiss": "Plus tard",
+    "main_langpack_update_progress": "Mise à jour de %1$s… (%2$d/%3$d)",
+    "main_langpack_update_title": "Mises à jour des langues disponibles",
     "main_queue_title": "File d'attente (%1$d morceaux)",
     "main_save_as_playlist": "Enregistrer comme playlist",
     "main_save_queue_as_playlist": "Enregistrer la file comme playlist",
@@ -819,5 +824,5 @@
     "youtube_quota": "Votre clé API a épuisé son quota du jour — il se réinitialise à minuit (Pacifique)"
   },
   "tag": "fr",
-  "version": 15
+  "version": 16
 }

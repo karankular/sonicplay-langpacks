@@ -285,6 +285,11 @@
     "main_dac_hw_prompt_remember": "このDACの設定を記憶する",
     "main_dac_hw_prompt_title": "%1$s の音量",
     "main_dac_volume_info": "SonicPlay は既定で、USB DAC の音量を DAC 自身の操作にまかせます。DAC の音量ボタンをお使いください。\\n\\nDAC に音量ボタンがない場合は、設定 → 音質 で「DAC のハードウェア音量を使う」をオンにすると、スマートフォンの音量キーで操作できます。",
+    "main_langpack_update_body": "%1$s の更新された翻訳が利用できます。今すぐ更新しますか?",
+    "main_langpack_update_button": "更新",
+    "main_langpack_update_dismiss": "後で",
+    "main_langpack_update_progress": "%1$s を更新しています… (%2$d/%3$d)",
+    "main_langpack_update_title": "言語の更新があります",
     "main_queue_title": "キュー（%1$d 曲）",
     "main_save_as_playlist": "プレイリストとして保存",
     "main_save_queue_as_playlist": "キューをプレイリストとして保存",
@@ -819,5 +824,5 @@
     "youtube_quota": "API キーの本日分の割り当てを使い切りました。太平洋時間の午前 0 時にリセットされます"
   },
   "tag": "ja",
-  "version": 13
+  "version": 14
 }

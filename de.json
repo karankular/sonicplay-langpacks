@@ -126,6 +126,7 @@
     "dac_usb_unsupported_body": "Dieses Gerät kann keine USB-Audiogeräte anschließen, daher gibt es hier nichts einzustellen. Alles andere in SonicPlay funktioniert wie gewohnt.",
     "dac_usb_unsupported_title": "USB-Audio nicht unterstützt",
     "dac_use_software_volume": "Software-Lautstärke verwenden",
+    "dsd_option_native": "Nativ",
     "dup_all": "Alle",
     "dup_delete_title": "%1$d Titel löschen?",
     "dup_delete_warning": "Damit werden die ausgewählten Dateien endgültig von deinem Gerät gelöscht. Das lässt sich nicht rückgängig machen.",
@@ -535,6 +536,7 @@
     "settings_double_tap_album_art_seek": "Tippe doppelt auf die linke oder rechte Seite des Covers, um vor- oder zurückzuspringen",
     "settings_dsd_auto_desc": "Natives DSD (DoP) nur an einen DoP-fähigen USB-DAC im Bit-Perfect-Modus senden, sonst in PCM wandeln. Sichere Voreinstellung.",
     "settings_dsd_dop_desc": "Immer natives DSD (DoP) an den USB-DAC senden. Nur nutzen, wenn dein DAC DoP unterstützt — andernfalls gibt er Rauschen aus.",
+    "settings_dsd_native_desc": "Sendet den rohen DSD-Bitstream über die eigene DSD-Schnittstelle des DAC, ohne PCM-Umwandlung und ohne DoP. Experimentell: nur für DACs, die das angeben. Lässt es sich nicht nutzen, wird der Titel stattdessen als PCM abgespielt.",
     "settings_dsd_output": "DSD-Ausgabe",
     "settings_dsd_pcm_desc": "DSD immer in PCM umwandeln. Funktioniert an jeder Ausgabe; der DAC zeigt eine PCM-Rate, kein DSD.",
     "settings_dsp_bit_perfect": "Im Bit-Perfect-Modus nicht verfügbar",
@@ -785,6 +787,7 @@
     "support_perk_beta": "Früher Zugriff auf Beta-Versionen",
     "support_perk_themes": "5 exklusive Farbthemen",
     "support_price_unavailable": "Nicht verfügbar",
+    "support_prompt_open": "Mehr erfahren",
     "support_restore": "Käufe wiederherstellen",
     "support_row_subtitle": "Hilf mit, SonicPlay am Laufen zu halten",
     "support_row_subtitle_owned": "Danke für deine Unterstützung",
@@ -886,5 +889,5 @@
     "youtube_quota": "Dein API-Schlüssel hat das Tageskontingent ausgeschöpft — es wird um Mitternacht (Pacific) zurückgesetzt"
   },
   "tag": "de",
-  "version": 28
+  "version": 30
 }

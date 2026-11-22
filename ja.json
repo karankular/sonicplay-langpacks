@@ -126,6 +126,7 @@
     "dac_usb_unsupported_body": "この端末は USB オーディオ機器を接続できないため、ここで設定するものはありません。SonicPlay のその他の機能は通常どおり使えます。",
     "dac_usb_unsupported_title": "USB オーディオは非対応",
     "dac_use_software_volume": "ソフトウェア音量を使う",
+    "dsd_option_native": "ネイティブ",
     "dup_all": "すべて",
     "dup_delete_title": "%1$d 曲を削除しますか？",
     "dup_delete_warning": "選択したファイルを端末から完全に削除します。元に戻せません。",
@@ -535,6 +536,7 @@
     "settings_double_tap_album_art_seek": "ジャケットの左または右をダブルタップすると、戻る・進むができます",
     "settings_dsd_auto_desc": "ビットパーフェクトで DoP 対応の USB DAC のときだけネイティブ DSD（DoP）を送り、それ以外は PCM に変換します。安全な既定値です。",
     "settings_dsd_dop_desc": "常にネイティブ DSD（DoP）を USB DAC に送ります。DoP 対応の DAC でのみ使ってください。非対応だとノイズが出ます。",
+    "settings_dsd_native_desc": "生の DSD ビットストリームを、PCM 変換も DoP も使わず、DAC 独自の DSD インターフェースで送ります。試験的機能：対応を宣言している DAC のみ。使用できない場合は PCM で再生されます。",
     "settings_dsd_output": "DSD 出力",
     "settings_dsd_pcm_desc": "常に DSD を PCM に変換します。どの出力でも動作しますが、DAC の表示は DSD ではなく PCM になります。",
     "settings_dsp_bit_perfect": "ビットパーフェクトでは使えません",
@@ -785,6 +787,7 @@
     "support_perk_beta": "ベータ版への早期アクセス",
     "support_perk_themes": "限定カラーテーマ 5 種",
     "support_price_unavailable": "利用できません",
+    "support_prompt_open": "詳しく見る",
     "support_restore": "購入を復元",
     "support_row_subtitle": "SonicPlay の継続を支援する",
     "support_row_subtitle_owned": "ご支援ありがとうございます",
@@ -886,5 +889,5 @@
     "youtube_quota": "API キーの本日分の割り当てを使い切りました。太平洋時間の午前 0 時にリセットされます"
   },
   "tag": "ja",
-  "version": 28
+  "version": 30
 }

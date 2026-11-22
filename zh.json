@@ -126,6 +126,7 @@
     "dac_usb_unsupported_body": "此设备无法连接 USB 音频设备，因此这里没有可配置的内容。SonicPlay 的其他功能均可正常使用。",
     "dac_usb_unsupported_title": "不支持 USB 音频",
     "dac_use_software_volume": "使用软件音量",
+    "dsd_option_native": "原生",
     "dup_all": "全部",
     "dup_delete_title": "删除 %1$d 首歌曲？",
     "dup_delete_warning": "此操作会将所选文件从设备中永久删除，且无法撤销。",
@@ -535,6 +536,7 @@
     "settings_double_tap_album_art_seek": "双击封面左侧或右侧可快退或快进",
     "settings_dsd_auto_desc": "仅在 Bit-Perfect 模式下向支持 DoP 的 USB DAC 发送原生 DSD（DoP），否则转换为 PCM。这是安全的默认设置。",
     "settings_dsd_dop_desc": "始终以原生 DSD（DoP）方式发送到 USB DAC。仅当您的 DAC 支持 DoP 时使用——不支持的 DAC 会输出噪声。",
+    "settings_dsd_native_desc": "通过 DAC 自带的 DSD 接口发送原始 DSD 比特流，不转换为 PCM，也不使用 DoP。实验性功能：仅适用于声明支持的 DAC。若无法使用，则改以 PCM 播放。",
     "settings_dsd_output": "DSD 输出",
     "settings_dsd_pcm_desc": "始终将 DSD 转换为 PCM。适用于所有输出设备；DAC 会显示 PCM 采样率，而非 DSD。",
     "settings_dsp_bit_perfect": "Bit-Perfect 模式下不可用",
@@ -785,6 +787,7 @@
     "support_perk_beta": "抢先体验测试版",
     "support_perk_themes": "5 款专属配色主题",
     "support_price_unavailable": "暂不可用",
+    "support_prompt_open": "了解更多",
     "support_restore": "恢复购买",
     "support_row_subtitle": "帮助 SonicPlay 持续发展",
     "support_row_subtitle_owned": "感谢您的支持",
@@ -886,5 +889,5 @@
     "youtube_quota": "您的 API 密钥今日额度已用尽——将于太平洋时间午夜重置"
   },
   "tag": "zh",
-  "version": 18
+  "version": 20
 }

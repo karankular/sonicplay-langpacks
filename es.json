@@ -126,6 +126,7 @@
     "dac_usb_unsupported_body": "Este dispositivo no puede conectar dispositivos de audio USB, así que no hay nada que configurar aquí. Todo lo demás en SonicPlay funciona con normalidad.",
     "dac_usb_unsupported_title": "Audio USB no compatible",
     "dac_use_software_volume": "Usar volumen por software",
+    "dsd_option_native": "Nativo",
     "dup_all": "Todas",
     "dup_delete_title": "¿Eliminar %1$d canciones?",
     "dup_delete_warning": "Esto eliminará permanentemente los archivos seleccionados de tu dispositivo. La acción no se puede deshacer.",
@@ -535,6 +536,7 @@
     "settings_double_tap_album_art_seek": "Toca dos veces la izquierda o la derecha de la portada para retroceder o avanzar",
     "settings_dsd_auto_desc": "Enviar DSD nativo (DoP) solo a un DAC USB compatible con DoP en modo bit-perfect; si no, convertir a PCM. Opción segura por defecto.",
     "settings_dsd_dop_desc": "Enviar siempre DSD nativo (DoP) al DAC USB. Úsalo solo si tu DAC admite DoP; si no, emitirá ruido.",
+    "settings_dsd_native_desc": "Envía el flujo DSD sin procesar por la interfaz DSD propia del DAC, sin conversión a PCM ni DoP. Experimental: solo para DAC que lo declaren. Si no se puede usar, la pista se reproduce como PCM.",
     "settings_dsd_output": "Salida DSD",
     "settings_dsd_pcm_desc": "Convertir siempre el DSD a PCM. Funciona en cualquier salida; el DAC muestra una frecuencia PCM, no DSD.",
     "settings_dsp_bit_perfect": "No disponible en modo bit-perfect",
@@ -785,6 +787,7 @@
     "support_perk_beta": "Acceso anticipado a versiones beta",
     "support_perk_themes": "5 temas de color exclusivos",
     "support_price_unavailable": "No disponible",
+    "support_prompt_open": "Más información",
     "support_restore": "Restaurar compras",
     "support_row_subtitle": "Ayuda a que SonicPlay siga adelante",
     "support_row_subtitle_owned": "Gracias por tu apoyo",
@@ -886,5 +889,5 @@
     "youtube_quota": "Tu clave de API agotó la cuota de hoy: se reinicia a medianoche (hora del Pacífico)"
   },
   "tag": "es",
-  "version": 28
+  "version": 30
 }

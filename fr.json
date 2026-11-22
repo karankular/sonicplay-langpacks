@@ -126,6 +126,7 @@
     "dac_usb_unsupported_body": "Cet appareil ne peut pas connecter de périphériques audio USB, il n'y a donc rien à configurer ici. Tout le reste de SonicPlay fonctionne normalement.",
     "dac_usb_unsupported_title": "Audio USB non pris en charge",
     "dac_use_software_volume": "Utiliser le volume logiciel",
+    "dsd_option_native": "Natif",
     "dup_all": "Tout",
     "dup_delete_title": "Supprimer %1$d morceaux ?",
     "dup_delete_warning": "Les fichiers sélectionnés seront définitivement supprimés de votre appareil. Cette action est irréversible.",
@@ -535,6 +536,7 @@
     "settings_double_tap_album_art_seek": "Touchez deux fois la gauche ou la droite de la pochette pour avancer ou reculer",
     "settings_dsd_auto_desc": "Envoyer le DSD natif (DoP) uniquement à un DAC USB compatible DoP en mode bit-perfect ; sinon convertir en PCM. Choix sûr par défaut.",
     "settings_dsd_dop_desc": "Toujours envoyer le DSD natif (DoP) au DAC USB. À n'utiliser que si votre DAC prend en charge le DoP — sinon il produira du bruit.",
+    "settings_dsd_native_desc": "Envoie le flux DSD brut via l'interface DSD propre au DAC, sans conversion PCM ni DoP. Expérimental : uniquement pour les DAC qui la déclarent. S'il est inutilisable, la piste est lue en PCM.",
     "settings_dsd_output": "Sortie DSD",
     "settings_dsd_pcm_desc": "Toujours convertir le DSD en PCM. Fonctionne sur toutes les sorties ; le DAC affiche un taux PCM, pas DSD.",
     "settings_dsp_bit_perfect": "Indisponible en mode bit-perfect",
@@ -785,6 +787,7 @@
     "support_perk_beta": "Accès anticipé aux versions bêta",
     "support_perk_themes": "5 thèmes de couleurs exclusifs",
     "support_price_unavailable": "Indisponible",
+    "support_prompt_open": "En savoir plus",
     "support_restore": "Restaurer les achats",
     "support_row_subtitle": "Aidez SonicPlay à continuer",
     "support_row_subtitle_owned": "Merci pour votre soutien",
@@ -886,5 +889,5 @@
     "youtube_quota": "Votre clé API a épuisé son quota du jour — il se réinitialise à minuit (Pacifique)"
   },
   "tag": "fr",
-  "version": 30
+  "version": 32
 }

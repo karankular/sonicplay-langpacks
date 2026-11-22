@@ -126,6 +126,7 @@
     "dac_usb_unsupported_body": "Perangkat ini tidak dapat menghubungkan perangkat audio USB, jadi tidak ada yang perlu diatur di sini. Semua hal lain di SonicPlay berfungsi seperti biasa.",
     "dac_usb_unsupported_title": "Audio USB tidak didukung",
     "dac_use_software_volume": "Gunakan volume perangkat lunak",
+    "dsd_option_native": "Native",
     "dup_all": "Semua",
     "dup_delete_title": "Hapus %1$d lagu?",
     "dup_delete_warning": "Ini akan menghapus permanen berkas terpilih dari perangkat Anda. Tindakan ini tidak bisa dibatalkan.",
@@ -535,6 +536,7 @@
     "settings_double_tap_album_art_seek": "Ketuk dua kali sisi kiri atau kanan sampul untuk mundur atau maju",
     "settings_dsd_auto_desc": "Kirim DSD native (DoP) hanya ke DAC USB yang mendukung DoP dalam mode bit-perfect; selain itu ubah ke PCM. Pilihan bawaan yang aman.",
     "settings_dsd_dop_desc": "Selalu kirim DSD native (DoP) ke DAC USB. Gunakan hanya jika DAC Anda mendukung DoP — yang tidak mendukung akan mengeluarkan derau.",
+    "settings_dsd_native_desc": "Kirim aliran DSD mentah lewat antarmuka DSD milik DAC, tanpa konversi PCM dan tanpa DoP. Eksperimental: hanya untuk DAC yang menyatakannya. Jika tidak bisa dipakai, lagu diputar sebagai PCM.",
     "settings_dsd_output": "Keluaran DSD",
     "settings_dsd_pcm_desc": "Selalu ubah DSD menjadi PCM. Bekerja di semua keluaran; DAC menampilkan laju PCM, bukan DSD.",
     "settings_dsp_bit_perfect": "Tidak tersedia dalam mode bit-perfect",
@@ -785,6 +787,7 @@
     "support_perk_beta": "Akses awal ke versi beta",
     "support_perk_themes": "5 tema warna eksklusif",
     "support_price_unavailable": "Tidak tersedia",
+    "support_prompt_open": "Pelajari lebih lanjut",
     "support_restore": "Pulihkan pembelian",
     "support_row_subtitle": "Bantu SonicPlay terus berjalan",
     "support_row_subtitle_owned": "Terima kasih atas dukungan Anda",
@@ -886,5 +889,5 @@
     "youtube_quota": "Kuota harian kunci API Anda habis — kuotanya diatur ulang tengah malam waktu Pasifik"
   },
   "tag": "id",
-  "version": 28
+  "version": 30
 }

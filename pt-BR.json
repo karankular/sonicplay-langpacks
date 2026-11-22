@@ -126,6 +126,7 @@
     "dac_usb_unsupported_body": "Este aparelho não pode conectar dispositivos de áudio USB, então não há nada para configurar aqui. Todo o resto do SonicPlay funciona normalmente.",
     "dac_usb_unsupported_title": "Áudio USB não compatível",
     "dac_use_software_volume": "Usar volume por software",
+    "dsd_option_native": "Nativo",
     "dup_all": "Todas",
     "dup_delete_title": "Excluir %1$d músicas?",
     "dup_delete_warning": "Isso vai excluir permanentemente os arquivos selecionados do seu dispositivo. Não dá para desfazer.",
@@ -535,6 +536,7 @@
     "settings_double_tap_album_art_seek": "Toque duas vezes na esquerda ou na direita da capa para voltar ou avançar",
     "settings_dsd_auto_desc": "Enviar DSD nativo (DoP) só para um DAC USB compatível com DoP no modo bit-perfect; caso contrário, converter em PCM. Padrão seguro.",
     "settings_dsd_dop_desc": "Sempre enviar DSD nativo (DoP) ao DAC USB. Use só se o seu DAC for compatível com DoP — um que não for vai emitir ruído.",
+    "settings_dsd_native_desc": "Envia o fluxo DSD bruto pela interface DSD própria do DAC, sem conversão para PCM nem DoP. Experimental: apenas para DACs que a declaram. Se não puder ser usada, a faixa toca como PCM.",
     "settings_dsd_output": "Saída DSD",
     "settings_dsd_pcm_desc": "Sempre converter DSD em PCM. Funciona em qualquer saída; o DAC mostra uma taxa PCM, não DSD.",
     "settings_dsp_bit_perfect": "Indisponível no modo bit-perfect",
@@ -785,6 +787,7 @@
     "support_perk_beta": "Acesso antecipado a versões beta",
     "support_perk_themes": "5 temas de cores exclusivos",
     "support_price_unavailable": "Indisponível",
+    "support_prompt_open": "Saiba mais",
     "support_restore": "Restaurar compras",
     "support_row_subtitle": "Ajude o SonicPlay a continuar",
     "support_row_subtitle_owned": "Obrigado pelo seu apoio",
@@ -886,5 +889,5 @@
     "youtube_quota": "Sua chave de API esgotou a cota de hoje — ela é reiniciada à meia-noite (horário do Pacífico)"
   },
   "tag": "pt-BR",
-  "version": 28
+  "version": 30
 }

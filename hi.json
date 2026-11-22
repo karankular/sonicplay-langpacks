@@ -126,6 +126,7 @@
     "dac_usb_unsupported_body": "यह डिवाइस USB ऑडियो डिवाइस से नहीं जुड़ सकता, इसलिए यहाँ सेट करने को कुछ नहीं है। SonicPlay का बाकी सब कुछ सामान्य रूप से काम करता है।",
     "dac_usb_unsupported_title": "USB ऑडियो समर्थित नहीं",
     "dac_use_software_volume": "सॉफ़्टवेयर वॉल्यूम इस्तेमाल करें",
+    "dsd_option_native": "नेटिव",
     "dup_all": "सभी",
     "dup_delete_title": "%1$d गाने मिटाएँ?",
     "dup_delete_warning": "इससे चुनी गई फ़ाइलें आपके डिवाइस से हमेशा के लिए मिट जाएँगी। इसे वापस नहीं लाया जा सकता।",
@@ -535,6 +536,7 @@
     "settings_double_tap_album_art_seek": "पीछे या आगे जाने के लिए कवर के बाएँ या दाएँ हिस्से पर दो बार टैप करें",
     "settings_dsd_auto_desc": "नेटिव DSD (DoP) सिर्फ़ बिट-परफ़ेक्ट मोड में DoP समर्थित USB DAC को भेजें; बाकी जगह PCM में बदलें। सुरक्षित डिफ़ॉल्ट।",
     "settings_dsd_dop_desc": "हमेशा नेटिव DSD (DoP) USB DAC को भेजें। यह सिर्फ़ तभी इस्तेमाल करें जब आपका DAC DoP समर्थित हो — नहीं तो शोर आएगा।",
+    "settings_dsd_native_desc": "कच्चा DSD बिटस्ट्रीम सीधे DAC के अपने DSD इंटरफ़ेस से भेजें, बिना PCM रूपांतरण और DoP के। प्रायोगिक: केवल उन DAC के लिए जो इसे घोषित करते हैं। उपयोग न हो सके तो ट्रैक PCM के रूप में चलेगा।",
     "settings_dsd_output": "DSD आउटपुट",
     "settings_dsd_pcm_desc": "DSD को हमेशा PCM में बदलें। हर आउटपुट पर चलता है; DAC पर DSD नहीं, PCM दर दिखती है।",
     "settings_dsp_bit_perfect": "बिट-परफ़ेक्ट मोड में उपलब्ध नहीं",
@@ -785,6 +787,7 @@
     "support_perk_beta": "बीटा बिल्ड तक जल्दी पहुँच",
     "support_perk_themes": "5 विशेष रंग थीम",
     "support_price_unavailable": "उपलब्ध नहीं",
+    "support_prompt_open": "और जानें",
     "support_restore": "ख़रीदारी बहाल करें",
     "support_row_subtitle": "SonicPlay को चलते रहने में मदद करें",
     "support_row_subtitle_owned": "आपके सहयोग के लिए धन्यवाद",
@@ -886,5 +889,5 @@
     "youtube_quota": "आपकी API कुंजी का आज का कोटा ख़त्म हो गया — यह पैसिफ़िक समय की आधी रात को रीसेट होता है"
   },
   "tag": "hi",
-  "version": 28
+  "version": 30
 }

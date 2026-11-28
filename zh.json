@@ -102,6 +102,8 @@
     "dac_max_volume_desc": "无论音量键如何操作，手机都不会将此 DAC 的硬件音量驱动超过此上限。",
     "dac_maximum_volume": "最大音量",
     "dac_no_dacs_yet": "暂无 DAC 设备",
+    "dac_notice_replug": "请拔下 USB DAC 后重新插入，才能听这首歌。",
+    "dac_notice_replug_named": "请拔下 %1$s 后重新插入，才能听这首歌。",
     "dac_off": "关闭",
     "dac_on": "开启",
     "dac_percent": "%1$d%",
@@ -1023,5 +1025,5 @@
     "youtube_quota": "您的 API 密钥今日额度已用尽——将于太平洋时间午夜重置"
   },
   "tag": "zh",
-  "version": 30
+  "version": 31
 }

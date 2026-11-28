@@ -102,6 +102,8 @@
     "dac_max_volume_desc": "Le téléphone ne poussera jamais le volume matériel de ce DAC au-delà de ce plafond, quoi que demandent les touches.",
     "dac_maximum_volume": "Volume maximal",
     "dac_no_dacs_yet": "Aucun DAC pour l'instant",
+    "dac_notice_replug": "Débranchez votre DAC USB puis rebranchez-le pour écouter ce morceau.",
+    "dac_notice_replug_named": "Débranchez %1$s puis rebranchez-le pour écouter ce morceau.",
     "dac_off": "Désactivé",
     "dac_on": "Activé",
     "dac_percent": "%1$d%%",
@@ -1023,5 +1025,5 @@
     "youtube_quota": "Votre clé API a épuisé son quota du jour — il se réinitialise à minuit (Pacifique)"
   },
   "tag": "fr",
-  "version": 42
+  "version": 43
 }

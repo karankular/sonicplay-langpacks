@@ -102,6 +102,8 @@
     "dac_max_volume_desc": "Ponsel tidak akan pernah menaikkan volume perangkat keras DAC ini melebihi batas ini, apa pun yang diminta tombolnya.",
     "dac_maximum_volume": "Volume maksimum",
     "dac_no_dacs_yet": "Belum ada DAC",
+    "dac_notice_replug": "Cabut DAC USB Anda lalu pasang lagi untuk mendengarkan lagu ini.",
+    "dac_notice_replug_named": "Cabut %1$s lalu pasang lagi untuk mendengarkan lagu ini.",
     "dac_off": "Nonaktif",
     "dac_on": "Aktif",
     "dac_percent": "%1$d%%",
@@ -1023,5 +1025,5 @@
     "youtube_quota": "Kuota harian kunci API Anda habis — kuotanya diatur ulang tengah malam waktu Pasifik"
   },
   "tag": "id",
-  "version": 40
+  "version": 41
 }

@@ -102,6 +102,8 @@
     "dac_max_volume_desc": "Das Telefon treibt die Hardware-Lautstärke dieses DACs nie über diese Grenze, egal was die Tasten verlangen.",
     "dac_maximum_volume": "Maximale Lautstärke",
     "dac_no_dacs_yet": "Noch keine DACs",
+    "dac_notice_replug": "Trenne deinen USB-DAC und schließe ihn wieder an, um diesen Titel zu hören.",
+    "dac_notice_replug_named": "Trenne %1$s und schließe das Gerät wieder an, um diesen Titel zu hören.",
     "dac_off": "Aus",
     "dac_on": "Ein",
     "dac_percent": "%1$d%%",
@@ -1023,5 +1025,5 @@
     "youtube_quota": "Dein API-Schlüssel hat das Tageskontingent ausgeschöpft — es wird um Mitternacht (Pacific) zurückgesetzt"
   },
   "tag": "de",
-  "version": 40
+  "version": 41
 }
